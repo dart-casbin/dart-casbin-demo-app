@@ -19,9 +19,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: export
-      resolved-ref: bdd612aa6ae879c51b4160a9fbfe680c97e908b8
-      url: "https://github.com/mrunfunny/dart-casbin"
+      ref: HEAD
+      resolved-ref: "97a95d1468de40226776c33e66d8ae6a36002d26"
+      url: "https://github.com/casbin/dart-casbin"
     source: git
     version: "0.0.1"
   characters:
